@@ -1,4 +1,4 @@
-<h1 align = "center> ![image](https://github.com/Proverbz/Proverbz/assets/163592057/3cb16870-62f2-41d5-9848-3ff009fc5115) </h1>
+<align = "center> ![image](https://github.com/Proverbz/Proverbz/assets/163592057/3cb16870-62f2-41d5-9848-3ff009fc5115) 
 
 <h1 align = "center"> Hi 👋, I'm PROVERBZ</h1>
 <h6 align="left">I do reverse engineering, code analysis, as well as cheat and game development.</h6>
