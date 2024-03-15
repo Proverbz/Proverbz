@@ -1,4 +1,4 @@
-  ![image]([https://github.com/Proverbz/Proverbz/assets/163592057/bd994605-30a9-45a5-8d9d-83ffe36050f0](https://t3.ftcdn.net/jpg/06/03/12/98/360_F_603129857_kAcWWTL4JMXz3kJ1zZsww7evhhPLXcOQ.jpg))<h1 align="center">Hi 👋, I'm PROVERBZ</h1>
+Hi 👋, I'm PROVERBZ</h1>
 <h3 align="center">I do reverse engineering, code analysis, as well as cheat and game development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahuldkjain&label=Profile%20views&color=0e75b6&style=flat" alt="l1nky-1337" /> </p>
